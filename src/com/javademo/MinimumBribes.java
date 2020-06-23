@@ -6,7 +6,7 @@ import java.util.Map.Entry;
 import java.util.Scanner;
 
 public class MinimumBribes {
-	//Add line by github
+	// Add line by github
 	// Complete the minimumBribes function below.
 	static void minimumBribes(int[] q) {
 		boolean isChaotic = false;
