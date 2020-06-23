@@ -5,7 +5,7 @@ import java.util.Map;
 import java.util.Map.Entry;
 import java.util.Scanner;
 
-public class Test {
+public class MinimumBribes {
 	// Complete the minimumBribes function below.
 	static void minimumBribes(int[] q) {
 		boolean isChaotic = false;
